@@ -1,0 +1,15 @@
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe.config
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\bin\Release\Yahtzee.pdb
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\MainWindow.g.cs
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\App.g.cs
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee_MarkupCompile.cache
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee_MarkupCompile.lref
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\MainWindow.baml
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.g.resources
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.Properties.Resources.resources
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.csproj.GenerateResource.cache
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.exe
+C:\Users\basbi\source\repos\Yahtzee\Yahtzee\obj\Release\Yahtzee.pdb
